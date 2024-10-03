@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 
 ### 3. **Bigfoot Sightings Analysis**
 - **Description**: Analyzed data on Bigfoot sightings to uncover patterns and visualized findings using Power BI.
-- **Technologies Used**: Power BI
+- **Technologies Used**: Power BI, Data Visualization
 
 ### 4. **Personal Website**
 - **Description**: Designed and developed a personal website to showcase my projects and skills.
@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
 ## Contact Me
 Feel free to reach out for collaboration or inquiries!
 
-- **Email**: priyanshu@example.com
+- **Email**: priyanshubhardwaj51@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/priyanshu-naudiyal-2650bb203/)
 - **GitHub**: [GitHub Profile](https://github.com/priyanshunaudiyal)
 
